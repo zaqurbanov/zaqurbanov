@@ -22,7 +22,9 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+👋;I'm+a+MERN+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 ###
 
